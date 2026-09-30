@@ -1,4 +1,4 @@
-# JavaScript Utility Library
+# JavaScript Utility Library - Week 1 Assignment
 
 A collection of Week 1 assignment submissions and foundational JavaScript tasks completed for the **OptimusFox Internship Program**.
 
